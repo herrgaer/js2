@@ -1,0 +1,14 @@
+body {
+    font-family: system-ui;
+    text-align: center;
+  }
+  article {
+    text-align: left;
+  }
+  nav {
+    text-align: right;
+  }
+  
+  ul {
+    text-align: left;
+  }
